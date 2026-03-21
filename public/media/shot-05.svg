@@ -1,0 +1,15 @@
+<svg width="960" height="1280" viewBox="0 0 960 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1280" fill="#101D34"/>
+  <rect x="72" y="82" width="816" height="1116" rx="46" fill="url(#paint0_linear)"/>
+  <circle cx="486" cy="380" r="206" fill="#355F9E" fill-opacity="0.32"/>
+  <circle cx="495" cy="388" r="92" fill="#D4AF37" fill-opacity="0.26"/>
+  <path d="M155 794C255.028 858.259 363.435 890.389 480.221 890.389C597.007 890.389 696.267 858.259 778 794" stroke="#EAF2FF" stroke-opacity="0.3" stroke-width="18" stroke-linecap="round"/>
+  <text x="144" y="1066" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="80" font-weight="700">Blue Hour Journal</text>
+  <text x="144" y="1132" fill="#9CB0D1" font-family="Manrope, Arial, sans-serif" font-size="34" letter-spacing="4">DUSK / GLOW / STILLNESS</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="122" y1="128" x2="854" y2="1156" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A3C71"/>
+      <stop offset="1" stop-color="#0B1D3A"/>
+    </linearGradient>
+  </defs>
+</svg>

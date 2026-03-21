@@ -1,0 +1,15 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="40" fill="#0F1A2D"/>
+  <rect x="52" y="48" width="1176" height="624" rx="32" fill="url(#paint0_linear)"/>
+  <circle cx="336" cy="214" r="100" fill="#D4AF37" fill-opacity="0.24"/>
+  <path d="M160 442C264.791 354.13 365.125 310.195 461 310.195C556.875 310.195 689.208 379.065 858 516.805" stroke="#EAF2FF" stroke-opacity="0.28" stroke-width="22" stroke-linecap="round"/>
+  <path d="M676 186L906 352L1104 220" stroke="#2C5FA8" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="562" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="78" font-weight="700">Travel Motion</text>
+  <text x="120" y="620" fill="#9CB0D1" font-family="Manrope, Arial, sans-serif" font-size="30" letter-spacing="4">CINEMATIC / MOVEMENT / ROAD</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="102" y1="82" x2="1192" y2="646" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A3C70"/>
+      <stop offset="1" stop-color="#0B1D3A"/>
+    </linearGradient>
+  </defs>
+</svg>

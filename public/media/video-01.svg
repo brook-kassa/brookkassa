@@ -1,0 +1,14 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="40" fill="#101C31"/>
+  <rect x="54" y="50" width="1172" height="620" rx="32" fill="url(#paint0_linear)"/>
+  <circle cx="950" cy="186" r="88" fill="#D4AF37" fill-opacity="0.24"/>
+  <path d="M206 480L460 270L664 414L898 214" stroke="#EAF2FF" stroke-opacity="0.28" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="560" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="78" font-weight="700">Creative Drops</text>
+  <text x="120" y="618" fill="#9CB0D1" font-family="Manrope, Arial, sans-serif" font-size="30" letter-spacing="4">YOUTUBE / VISUAL STORIES</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="92" y1="80" x2="1188" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#183560"/>
+      <stop offset="1" stop-color="#0B1D3A"/>
+    </linearGradient>
+  </defs>
+</svg>

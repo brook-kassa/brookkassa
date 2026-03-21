@@ -1,0 +1,15 @@
+<svg width="960" height="1280" viewBox="0 0 960 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1280" fill="#0B1524"/>
+  <rect x="64" y="74" width="832" height="1132" rx="46" fill="url(#paint0_linear)"/>
+  <circle cx="683" cy="309" r="126" fill="#D4AF37" fill-opacity="0.28"/>
+  <path d="M128 836L328 662L493 752L777 408" stroke="#EAF2FF" stroke-opacity="0.34" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 903C223.885 856.463 318.715 833.194 402.491 833.194C486.268 833.194 603.104 874.322 752.999 956.58" stroke="#2C5FA8" stroke-width="98" stroke-linecap="round"/>
+  <text x="130" y="1082" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="82" font-weight="700">Night Signal</text>
+  <text x="130" y="1148" fill="#93A8C7" font-family="Manrope, Arial, sans-serif" font-size="34" letter-spacing="4">CITY LIGHT / LOW-LUX</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="126" y1="134" x2="816" y2="1114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#132543"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+  </defs>
+</svg>

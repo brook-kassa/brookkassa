@@ -1,0 +1,15 @@
+<svg width="960" height="1280" viewBox="0 0 960 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1280" fill="#101826"/>
+  <rect x="74" y="88" width="812" height="1104" rx="42" fill="url(#paint0_linear)"/>
+  <rect x="207" y="220" width="212" height="484" rx="18" fill="#D4AF37" fill-opacity="0.16"/>
+  <rect x="459" y="162" width="300" height="698" rx="18" fill="#EAF2FF" fill-opacity="0.08"/>
+  <path d="M144 976H810" stroke="#EAF2FF" stroke-opacity="0.24" stroke-width="8" stroke-linecap="round"/>
+  <text x="140" y="1068" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="80" font-weight="700">Soft Concrete</text>
+  <text x="140" y="1136" fill="#9AAFD0" font-family="Manrope, Arial, sans-serif" font-size="34" letter-spacing="4">ARCHITECTURE / QUIET FORM</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="112" y1="136" x2="840" y2="1146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17325D"/>
+      <stop offset="1" stop-color="#0E1727"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="960" height="1280" viewBox="0 0 960 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1280" fill="#101C31"/>
+  <rect x="76" y="84" width="808" height="1112" rx="42" fill="url(#paint0_linear)"/>
+  <path d="M145 962C243.81 859.865 342.619 808.797 441.429 808.797C540.238 808.797 639.048 870.08 737.857 992.645" stroke="#F4D88D" stroke-opacity="0.52" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="314" cy="389" r="130" fill="#D4AF37" fill-opacity="0.22"/>
+  <circle cx="634" cy="521" r="208" fill="#2A5FA8" fill-opacity="0.32"/>
+  <text x="144" y="1068" fill="#EAF2FF" font-family="Sora, Arial, sans-serif" font-size="78" font-weight="700">Altitude Frames</text>
+  <text x="144" y="1136" fill="#9DB4D6" font-family="Manrope, Arial, sans-serif" font-size="34" letter-spacing="4">TRAVEL STUDY / 2026</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="113" y1="140" x2="848" y2="1160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173666"/>
+      <stop offset="1" stop-color="#0B1D3A"/>
+    </linearGradient>
+  </defs>
+</svg>
